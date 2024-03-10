@@ -1,25 +1,32 @@
-                                                                **  👋 Hi, I’m Renzo Roy Avellanida  **
-👀 I’m interested in Software Testing...
-🌱 I’m currently learning Automation Testing
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
-- 
-🌱 I’m currently learning 
+# Renzo Roy Avellanida
 
-📫 How to reach me rrmavell@gmail.com
+👋 Hi, I’m Renzo Roy Avellanida, a Software QA Tester and a proud graduate of a Software QA Bootcamp.
 
+## About Me
 
+- 🎓 Graduate of Software QA Bootcamp
+- 💼 Software QA Tester Freelancer
 
+## Contact Information
 
+- 📧 Email: [rrmavell@gmail.com](mailto:rrmavell@gmail.com)
+- 📱 Contact Number: +63 961 149 2190
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rrmavell)
 
-💬 Ask me about Software Development
+## Skills
 
+- **Manual Testing:**
+  - Test Planning and Execution
+  - Test Case Design and Documentation
+  - Defect Identification and Reporting
+  - Regression Testing
+  - Exploratory Testing
 
+- **Additional Information:**
+  - **Markup Languages:** XML, HTML, CSV, JSON
+  - **Database Management:** MySQL, Microsoft SQL Server Management Studio, DBeaver, SQLite
+  - **Testing Tools:** Postman, Jira, TestRail, Qase
+  - **Project Management:** Trello, Miro
+  - **Documentation:** Google Docs, MS Office
 
-
-<!---
-RRmavell/RRmavell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out to discuss manual testing, database management, quality assurance, or any collaboration ideas. I'm always open to connecting with fellow professionals in the field!
