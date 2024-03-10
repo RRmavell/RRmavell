@@ -1,19 +1,27 @@
 # Renzo Roy Avellanida
 
-👋 Hi, I’m Renzo Roy Avellanida, a Software QA Tester and a proud graduate of a Software QA Bootcamp.
+## Introduction
+
+👋 Hi there! I'm Renzo Roy Avellanida, and let me tell you, I'm absolutely thrilled about software testing! Uncovering those sneaky bugs and defects brings me immense joy and satisfaction. My journey into the world of software testing was sparked by my love for playing video games. There's something incredibly exciting about hunting for bugs and uncovering those hidden cheat codes—it's like being on a treasure hunt in the digital realm! 🎮 Let's connect and share the enthusiasm for the fascinating world of software testing! 💻✨
 
 ## About Me
 
-- 🎓 Graduate of Software QA Bootcamp
 - 💼 Software QA Tester Freelancer
+- 💻 Tech Enthusiast
+- 🎮 Avid Gamer
+- 🎸 Guitar Player
+- 🌿 Nature Lover
+- 🐾 Dog Lover
+- 📖 Interested in Reading Books
+- 💪 Interested in Bodybuilding
 
 ## Contact Information
 
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rrmavell)
 - 📧 Email: [rrmavell@gmail.com](mailto:rrmavell@gmail.com)
 - 📱 Contact Number: +63 961 149 2190
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rrmavell)
 
-## Skills
+## Additional Information
 
 - **Manual Testing:**
   - Test Planning and Execution
@@ -21,12 +29,14 @@
   - Defect Identification and Reporting
   - Regression Testing
   - Exploratory Testing
+  - Functional Testing
+  - UI Testing
+  - API Testing
 
-- **Additional Information:**
+- **Technical Expertise and Toolset:**
   - **Markup Languages:** XML, HTML, CSV, JSON
   - **Database Management:** MySQL, Microsoft SQL Server Management Studio, DBeaver, SQLite
   - **Testing Tools:** Postman, Jira, TestRail, Qase
-  - **Project Management:** Trello, Miro
-  - **Documentation:** Google Docs, MS Office
+  - **Collaboration and Communication:** Slack, Microsoft Teams
 
-Feel free to reach out to discuss manual testing, database management, quality assurance, or any collaboration ideas. I'm always open to connecting with fellow professionals in the field!
+Feel free to reach out to discuss any collaboration ideas. I'm always open to connecting with fellow professionals in the field!
